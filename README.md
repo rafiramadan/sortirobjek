@@ -1,6 +1,6 @@
 # IoT Sortir Object 
 
-Miniatur Sistem sortir objek berdasarkan warna TCS3200 dengan robot arm terintegrasi IoT
+Miniatur Sistem sortir objek berdasarkan warna TCS3200 dengan robot arm terintegrasi IoT. 
 Kebutuhan komponen elektronik:
 1. Arduino Uno R3 Atmega328p
 2. NodeMCU ESP8266
